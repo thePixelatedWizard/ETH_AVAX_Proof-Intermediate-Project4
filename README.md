@@ -21,8 +21,7 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 website at https://remix.ethereum.org/. Once you are on the Remix website, create a new file by 
 clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension. Copy and paste
 the code is main.sol file into the newly created file. Next from the sidebar go the the compiler tab
-and compile the contract. Finally in the deploy tab, deploy the smart contract and interact with it.* How/where to download your program
-* Any modifications needed to be made to files/folders
+and compile the contract. Finally in the deploy tab, deploy the smart contract and interact with it
 
 ### Executing program
 
